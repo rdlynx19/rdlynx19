@@ -1,4 +1,11 @@
-## Hi there 👋
+## Namaste! I'm Pushkar
+[![Linkedin Badge](https://img.shields.io/badge/-Pushkar%20Dave-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-dave/ "Connect on LinkedIn")
+
+I'm an MS Robotics student at Northwestern University.
+- I'm currently learning ROS2 💻, Robot Dynamics and Kinematics 🦾 and Unity 🎮
+- I'm interested in Multi Robot Systems
+- Reach out to me for discussions and projects on [![Gmail Badge](https://img.shields.io/badge/-pushkardave.vnit@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pushkardave.vnit@gmail.com "Connect via Email")
+
 
 <!--
 **rdlynx19/rdlynx19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
