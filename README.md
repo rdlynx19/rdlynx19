@@ -1,4 +1,4 @@
-## Namaste! I'm Pushkar
+## Hey! I'm Pushkar
 [![Linkedin Badge](https://img.shields.io/badge/-Pushkar%20Dave-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-dave/ "Connect on LinkedIn")
 
 I'm an MS Robotics student at Northwestern University.
