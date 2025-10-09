@@ -1,10 +1,11 @@
-## Hey! I'm Pushkar
-[![Linkedin Badge](https://img.shields.io/badge/-Pushkar%20Dave-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-dave/ "Connect on LinkedIn")
+## Hey! this is Pushkar :wave:
 
-I'm an MS Robotics student at Northwestern University.
-- I'm currently learning ROS2 💻, Robot Dynamics and Kinematics 🦾 and Unity 🎮
-- I'm interested in Multi Robot Systems
-- Reach out to me for discussions and projects on [![Gmail Badge](https://img.shields.io/badge/-pushkardave.vnit@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pushkardave.vnit@gmail.com "Connect via Email")
+I study Robotics at Northwestern University. I work on multi-robot mapping, simulation and embedded systems.
+- :robot: Skilled in ROS 2, MoveIt, C++, Python and hardware integration.
+- :helicopter: Worked with Quadrotors, Quadrupeds & Robotic Manipulators
+
+
+:mailbox: Reach out to me [Email](mailto:https://pushkardave.com) | [LinkedIn](https://linkedin.com/in/pushkar-dave) | [Website](https://pushkardave.com)
 
 
 <!--
