@@ -2,10 +2,10 @@
 
 I study Robotics at Northwestern University. I work on multi-robot mapping, simulation and embedded systems.
 - :robot: Skilled in ROS 2, MoveIt, C++, Python and hardware integration.
-- :helicopter: Worked with Quadrotors, Quadrupeds & Robotic Manipulators
+- :helicopter: Worked with Quadrotors, Quadrupeds & Robotic Manipulators.
 
 
-:mailbox: Reach out to me [Email](mailto:https://pushkardave.com) | [LinkedIn](https://linkedin.com/in/pushkar-dave) | [Website](https://pushkardave.com)
+:mailbox: Reach out to me on [Email](mailto:https://pushkardave.com) | [LinkedIn](https://linkedin.com/in/pushkar-dave) | [Website](https://pushkardave.com)
 
 
 <!--
